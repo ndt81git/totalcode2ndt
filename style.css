@@ -1,0 +1,11 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  line-height: 1.5;
+}
+.bgmain{
+  background-color: rgb(195, 218, 210);
+  font-size: 18px;
+  color: rgb(38, 9, 65);
+}
